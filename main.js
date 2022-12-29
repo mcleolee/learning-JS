@@ -348,4 +348,5 @@ function onSubmit(e){
         nameInput.value = '';
         emailInput.value = '';
     }
+    
 }
